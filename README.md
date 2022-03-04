@@ -1,4 +1,4 @@
-# Balle Bot
+# Balle Bot 🤖
 
 ## O que é o projeto?
 
